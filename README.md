@@ -1,6 +1,6 @@
 # Indexed-Expenditures
 
-# This is a program that takes house price, rent, groceries, natural gas, electricity, healthcare, tuition, and median income expenditures/prices, indexes them to 1980 and creates a linear regression model based off of the past data.
+This is a program that takes house price, rent, groceries, natural gas, electricity, healthcare, tuition, and median income expenditures/prices, indexes them to 1980 and creates a linear regression model based off of the past data.
 
 This project is made to accompany a research paper discussing the growths in expenditures and wage stagnation since 1980 in the United States in real dollars to more clearly illustrate cost of living growth. This program requires multiple files to download from FRED, BLS, CMS, and NCES. Using the data, this program indexes cost to 1980, compiles the datasets, fits one or two regression lines depending on volatility of data to each area, provides R^2, adjusted R^2, coefficients, intercepts, and standard error, and finally visualizes them in comparison to each other. 
 The program requires the pandas, pip, openpyxl, matplotlib, numpy, statsmodels, and scikitlearn packages.

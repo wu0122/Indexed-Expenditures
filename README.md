@@ -6,6 +6,7 @@ This project is made to accompany a research paper discussing the growths in exp
 The program requires the pandas, pip, openpyxl, matplotlib, numpy, statsmodels, and scikitlearn packages.
 
 Following are necessary downloads for the data and thus for the program to run.
+
 Centers for Medicare & Medicaid Services. (2023, December 13). Historical | CMS. Www.cms.gov. https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/historical
 Federal Reserve Economic Data. (2023, September 12). Mean Personal Income in the United States. FRED, Federal Reserve Bank of St. Louis. https://fred.stlouisfed.org/series/MAPAINUSA646N
 Federal Reserve Economic Data. (2024a, April 26). Population. FRED, Federal Reserve Bank of St. Louis. https://fred.stlouisfed.org/series/POPTHM
@@ -16,6 +17,7 @@ National Center for Education Statistics. (2023, December). Average undergraduat
 
 
 Some portions of the data, like the rent, are found through other websites due to not finding consistent downloadable data from the previous websites - here is where they were found.
+
 Statista Research Department. (2023, September 4). Asking rent for U.S. unfurnished apartments 1980-2018. Statista. https://www.statista.com/statistics/200223/median-apartment-rent-in-the-us-since-1980/
 United States Census Bureau. (2021, October 8). Historical Census of Housing Tables: Home Values. Census.gov. https://www.census.gov/data/tables/time-series/dec/coh-values.html
 RentCafe. (2023, March). Average Rent in the U.S. & Rent Prices by State - RentCafe. Www.rentcafe.com. https://www.rentcafe.com/average-rent-market-trends/us/
